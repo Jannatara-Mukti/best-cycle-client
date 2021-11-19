@@ -1,0 +1,24 @@
+/* @media only screen and (max-width: 600px){
+    .btnClick{
+        display: block;
+    }
+    .menus{
+        display: none;
+    }
+} */
+
+.css-1yzgns6 {
+    /* padding-bottom: px !important; */
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+    background-color: #286B6D !important;
+}
+
+.css-10hburv-MuiTypography-root {
+    font-size: 13px !important;
+}
+
+.css-mhc70k-MuiGrid-root {
+    margin-top: 50px !important;
+}
